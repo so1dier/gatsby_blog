@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Starter Blog`,
+    title: `Daniel's Blog`,
     author: {
       name: `Daniel Golitsynski`,
       summary: `who lives and works in Brisbane, Australia building useful software things.`,
